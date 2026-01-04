@@ -6,7 +6,7 @@
   <h4>Junior Developer | Tech Enthusiast | Open Source Lover | UI/UX Design Enthusiast</h4>
   
   <h3>
-    I'm a self-taught developer focused on <strong>designing and building clean</strong>, user-friendly web interfaces.
+    I'm a Junior Front-End Developer focused on <strong>designing and building clean</strong>, user-friendly web interfaces.
   </h3>
 
   <h3>📫 How to reach me:</h3>
