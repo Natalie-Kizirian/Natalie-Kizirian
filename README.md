@@ -3,7 +3,7 @@
   <h1>Hey there, I'm Natalie! 👩🏻‍💻</h1>
   
   
-  <h4>Junior Developer | Tech Enthusiast | Open Source Lover | UI/UX Design Enthusiast</h4>
+  <h4> Front-End Developer | Tech Enthusiast | Open Source Lover | UI/UX Design Enthusiast</h4>
   
   <h3>
     I'm a Junior Front-End Developer focused on <strong>designing and building clean</strong>, user-friendly web interfaces.
